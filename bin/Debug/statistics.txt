@@ -1,0 +1,4 @@
+﻿best points: 0
+games played: 0
+total points: 0
+turns made: 0

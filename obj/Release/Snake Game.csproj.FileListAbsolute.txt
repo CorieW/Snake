@@ -1,0 +1,10 @@
+C:\Users\Corie Watson\source\repos\Snake Game\Snake Game\bin\Release\statistics.txt
+C:\Users\Corie Watson\source\repos\Snake Game\Snake Game\bin\Release\Snake Game.exe.config
+C:\Users\Corie Watson\source\repos\Snake Game\Snake Game\bin\Release\Snake Game.exe
+C:\Users\Corie Watson\source\repos\Snake Game\Snake Game\bin\Release\Snake Game.pdb
+C:\Users\Corie Watson\source\repos\Snake Game\Snake Game\obj\Release\Snake Game.csprojAssemblyReference.cache
+C:\Users\Corie Watson\source\repos\Snake Game\Snake Game\obj\Release\Snake_Game.Properties.Resources.resources
+C:\Users\Corie Watson\source\repos\Snake Game\Snake Game\obj\Release\Snake Game.csproj.GenerateResource.cache
+C:\Users\Corie Watson\source\repos\Snake Game\Snake Game\obj\Release\Snake Game.csproj.CoreCompileInputs.cache
+C:\Users\Corie Watson\source\repos\Snake Game\Snake Game\obj\Release\Snake Game.exe
+C:\Users\Corie Watson\source\repos\Snake Game\Snake Game\obj\Release\Snake Game.pdb
