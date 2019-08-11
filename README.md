@@ -4,7 +4,6 @@ Just a terminal based Snake game.
 Features:
 - Colours
 - Pause Menu
-- Points
 - Tap To Begin
 
 Maybe in Future:
