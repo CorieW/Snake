@@ -14,3 +14,6 @@ What I Learnt:
 - Setting the terminal window size.
 - Recieving the key the user is pressing in the terminal window.
 - The concept and code flow idea of creating a Snake game.
+
+TODO:
+- Fix bug causing food to spawn diagonally.
