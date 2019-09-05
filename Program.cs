@@ -88,6 +88,7 @@ namespace Snake_Game
                     while (true)
                     {
                         int randX = new Random().Next(1, xSize + 1);
+                        System.Threading.Thread.Sleep(10);
                         int randY = new Random().Next(1, ySize + 1);
                         food = new Vector2(randX, randY);
 
